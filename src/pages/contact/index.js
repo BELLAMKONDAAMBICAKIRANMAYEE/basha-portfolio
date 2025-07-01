@@ -112,52 +112,8 @@ export const ContactUs = () => {
             <p>{contactConfig.description}</p>
           </Col>
           <Col lg="7" className="d-flex align-items-center">
-            <form onSubmit={handleSubmit} className="contact__form w-100">
-              <Row>
-                <Col lg="6" className="form-group">
-                  <input
-                    className="form-control"
-                    id="name"
-                    name="name"
-                    placeholder="Name"
-                    value={formData.name || ""}
-                    type="text"
-                    required
-                    onChange={handleChange}
-                  />
-                </Col>
-                <Col lg="6" className="form-group">
-                  <input
-                    className="form-control rounded-0"
-                    id="email"
-                    name="email"
-                    placeholder="Email"
-                    type="email"
-                    value={formData.email || ""}
-                    required
-                    onChange={handleChange}
-                  />
-                </Col>
-              </Row>
-              <textarea
-                className="form-control rounded-0"
-                id="message"
-                name="message"
-                placeholder="Message"
-                rows="5"
-                value={formData.message}
-                onChange={handleChange}
-                required
-              ></textarea>
-              <br />
-              <Row>
-                <Col lg="12" className="form-group">
-                  <button className="btn ac_btn" type="submit">
-                    {formData.loading ? "Sending..." : "Send"}
-                  </button>
-                </Col>
-              </Row>
-            </form>
+          
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3831.6919170401825!2d80.79376097365864!3d16.18483033633572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4a028f00757391%3A0x7a5eb1f19ee6324e!2s4-24-66%2C%20Kolluru%2C%20Andhra%20Pradesh%20522324!5e0!3m2!1sen!2sin!4v1751351393797!5m2!1sen!2sin" width="700" height="300" style={{border:0}}  loading="lazy" ></iframe>
           </Col>
         </Row>
       </Container>

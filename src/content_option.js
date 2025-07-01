@@ -1,4 +1,7 @@
-const logotext = "MBS";
+const logotext  = "/logo.png"; // make sure logo.png is placed inside the public folder
+
+<img src={logotext } alt="Logo" />
+
 const meta = {
     title: "MOHAMMAD BASHA SHAIK",
     description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer",
@@ -138,9 +141,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "mohammad.softskillstrainer@gmail.com",
+    YOUR_FONE: "(91)7207070768",
+    description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -149,10 +152,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    instagram: "https://www.instagram.com/mr_resilient__muhammed?igsh=MXJvNjJlbDJxajhtOA==",
+    linkedin: "https://www.linkedin.com/in/mohammad-yaaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    X: "https://x.com/itzzzbasha?t=FRhPz837D09hwssNT97C2Q&s=09",
+    whatsapp:"https://wa.me/917207070768"
 };
 export {
     meta,
