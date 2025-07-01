@@ -1,6 +1,6 @@
 const logotext  = "/logo.png"; // make sure logo.png is placed inside the public folder
 
-<img src={logotext } alt="Logo" />
+<img src={logotext} alt="Logo" />
 
 const meta = {
     title: "MOHAMMAD BASHA SHAIK",
@@ -17,7 +17,7 @@ const introdata = {
     description: `Designed personalized strategies to boost study skills, writing, and retention, turning fear into confidence through engaging, student-focused sessions. Addressed challenges like math anxiety with timely support and goal-driven lessons.
 
 Equipped students with life skills through training in interviews, communication, and NLP. Introduced interactive activities to make learning dynamic, impactful, and empowering.`,
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://res.cloudinary.com/digdliiab/image/upload/v1751362111/skzbiragfvnf1iddfd4h.jpg",
 };
 
 const dataabout = {
@@ -78,64 +78,64 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/8.jpg?updatedAt=1751376507378",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/7.jpg?updatedAt=1751376506320",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/6.jpg?updatedAt=1751376506206",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/1.jpg?updatedAt=1751376503739",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/11.jpg?updatedAt=1751376503688",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/5.jpg?updatedAt=1751376503688",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/14.jpg?updatedAt=1751376503617",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/12.jpg?updatedAt=1751376503538",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/3.jpg?updatedAt=1751376503460",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/4.jpg?updatedAt=1751376503450",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/13.jpg?updatedAt=1751376503281",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/10.jpg?updatedAt=1751376503195",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
 ];
@@ -154,7 +154,7 @@ const contactConfig = {
 const socialprofils = {
     instagram: "https://www.instagram.com/mr_resilient__muhammed?igsh=MXJvNjJlbDJxajhtOA==",
     linkedin: "https://www.linkedin.com/in/mohammad-yaaz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    X: "https://x.com/itzzzbasha?t=FRhPz837D09hwssNT97C2Q&s=09",
+    twitter: "https://x.com/itzzzbasha?t=FRhPz837D09hwssNT97C2Q&s=09",
     whatsapp:"https://wa.me/917207070768"
 };
 export {
