@@ -21,8 +21,8 @@ Equipped students with life skills through training in interviews, communication
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "I’m MOHAMMAD BASHA SHAIK",
+    aboutme: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -78,66 +78,79 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/8.jpg?updatedAt=1751376507378",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/12.jpg?updatedAt=1751433768687",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/7.jpg?updatedAt=1751376506320",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/18.jpg?updatedAt=1751433768794",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/6.jpg?updatedAt=1751376506206",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/16.jpg?updatedAt=1751433769057",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/1.jpg?updatedAt=1751376503739",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/2.jpg?updatedAt=1751433768714",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/11.jpg?updatedAt=1751376503688",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/15.jpg?updatedAt=1751433769051",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/5.jpg?updatedAt=1751376503688",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/22.jpg?updatedAt=1751433772660",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
 
+   
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/14.jpg?updatedAt=1751376503617",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/3.jpg?updatedAt=1751433773297",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/12.jpg?updatedAt=1751376503538",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/23.jpg?updatedAt=1751433772718",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/3.jpg?updatedAt=1751376503460",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/2.jpg?updatedAt=1751433768714",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/4.jpg?updatedAt=1751376503450",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/13.jpg?updatedAt=1751433768474",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
+    
     {
-        img: "https://ik.imagekit.io/8ayq6mbphp/images/13.jpg?updatedAt=1751376503281",
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/8.jpg?updatedAt=1751433773984",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
-    {
+     {
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/14.jpg?updatedAt=1751433768333",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
+        link: "#",
+    },
+     {
+        img: "https://ik.imagekit.io/8ayq6mbphp/images/4.jpg?updatedAt=1751433773528",
+        description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
+        link: "#",
+    },
+     {
         img: "https://ik.imagekit.io/8ayq6mbphp/images/10.jpg?updatedAt=1751376503195",
         description: "Founder of 'TRAIN to GROW'Professional Soft Skills trainer.",
         link: "#",
     },
+     
 ];
 
 const contactConfig = {
