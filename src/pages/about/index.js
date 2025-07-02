@@ -32,12 +32,13 @@ export const About = () => {
           <Col lg="7" className="d-flex align-items-center">
             <div>
               <p>{dataabout.aboutme}</p>
+              <p>{dataabout.aboutmy}</p>
             </div>
           </Col>
         </Row>
         <Row className=" sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">Work Timline</h3>
+            <h3 className="color_sec py-4">What We Do<br/><br/>OUR TRAINING</h3>
           </Col>
           <Col lg="7">
             <table className="table caption-top">
@@ -47,7 +48,6 @@ export const About = () => {
                     <tr key={i}>
                       <th scope="row">{data.jobtitle}</th>
                       <td>{data.where}</td>
-                      <td>{data.date}</td>
                     </tr>
                   );
                 })}
@@ -68,7 +68,7 @@ export const About = () => {
                     <div
                       className="progress-bar"
                       style={{
-                        width: `${data.value}%`,
+                        width: `100%`,
                       }}
                     >
                       <div className="progress-value">{data.value}%</div>
@@ -80,15 +80,16 @@ export const About = () => {
           </Col>
         </Row>
         <Row className="sec_sp">
-          <Col lang="5">
-            <h3 className="color_sec py-4">services</h3>
+          <Col lang="3">
+            <h3 className="color_sec py-4">Certifications</h3>
           </Col>
-          <Col lg="7">
+          <Col lg="9" style={{display:"flex",flexDirection:"row"}}>
             {services.map((data, i) => {
               return (
-                <div className="service_ py-4" key={i}>
-                  <h5 className="service__title">{data.title}</h5>
-                  <p className="service_desc">{data.description}</p>
+                <div className="service_ py-4" key={i} style={{aspectRatio:"4/9",width:"40%"}}>
+                  {/* <h5 className="service__title">{data.title}</h5>
+                  <p className="service_desc">{data.description}</p> */}
+                  <img src={data.images} width="60%"/>
                 </div>
               );
             })}
